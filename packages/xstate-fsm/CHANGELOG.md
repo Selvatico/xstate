@@ -1,5 +1,11 @@
 # @xstate/fsm
 
+## 1.2.1
+
+### Patch Changes
+
+- a337473: Fixed entry actions defined on an initial state not being executed.
+
 ## 1.2.0
 
 ### Minor Changes
